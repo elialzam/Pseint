@@ -1,0 +1,1 @@
+Código para sumar dos números, validar la edad y si el número es par o impar.
